@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.610e4a27.css",
-    "main.js": "/static/js/main.3c4f3f74.js",
-    "static/js/787.b70085d8.chunk.js": "/static/js/787.b70085d8.chunk.js",
-    "index.html": "/index.html",
-    "main.610e4a27.css.map": "/static/css/main.610e4a27.css.map",
-    "main.3c4f3f74.js.map": "/static/js/main.3c4f3f74.js.map",
-    "787.b70085d8.chunk.js.map": "/static/js/787.b70085d8.chunk.js.map"
+    "main.css": "/super-carnival/static/css/main.610e4a27.css",
+    "main.js": "/super-carnival/static/js/main.ad671322.js",
+    "static/js/787.b70085d8.chunk.js": "/super-carnival/static/js/787.b70085d8.chunk.js",
+    "index.html": "/super-carnival/index.html",
+    "main.610e4a27.css.map": "/super-carnival/static/css/main.610e4a27.css.map",
+    "main.ad671322.js.map": "/super-carnival/static/js/main.ad671322.js.map",
+    "787.b70085d8.chunk.js.map": "/super-carnival/static/js/787.b70085d8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.610e4a27.css",
-    "static/js/main.3c4f3f74.js"
+    "static/js/main.ad671322.js"
   ]
 }
