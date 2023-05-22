@@ -1,0 +1,127 @@
+[
+    {
+        "question": "What is the primary role of a Notary Public?",
+        "options": ["Witnessing signatures", "Legal advice", "Document preparation", "All of the above"],
+        "answer": 0
+    },
+    {
+        "question": "What is the minimum age to become a Notary Public in California?",
+        "options": ["16", "18", "21", "25"],
+        "answer": 1
+    },
+    {
+        "question": "What type of bond must a Notary Public have in California?",
+        "options": ["$5,000 Surety Bond", "$10,000 Surety Bond", "$15,000 Surety Bond", "$20,000 Surety Bond"],
+        "answer": 0
+    },
+    {
+        "question": "How long is the term of a Notary Public commission in California?",
+        "options": ["2 years", "4 years", "6 years", "Lifetime"],
+        "answer": 1
+    },
+    {
+        "question": "What type of identification is acceptable for a notary public to identify a person?",
+        "options": ["Driver's License", "Library Card", "Gym Membership", "Credit Card"],
+        "answer": 0
+    },
+    {
+        "question": "Can a notary notarize a document in which they have a financial interest?",
+        "options": ["Yes", "No"],
+        "answer": 1
+    },
+    {
+        "question": "What is the process of verifying a person's identity called?",
+        "options": ["Verification", "Notarization", "Identification", "Authentication"],
+        "answer": 3
+    },
+    {
+        "question": "Can a notary give legal advice in California?",
+        "options": ["Yes", "No"],
+        "answer": 1
+    },
+    {
+        "question": "What is the official seal of the notary public in California?",
+        "options": ["Ink Stamp", "Embossing Seal", "Electronic Seal", "All of the above"],
+        "answer": 0
+    },
+    {
+        "question": "What is the maximum number of years of imprisonment for perjury in California?",
+        "options": ["2 years", "3 years", "4 years", "5 years"],
+        "answer": 2
+    },
+    {
+        "question": "What is the primary duty of a notary?",
+        "options": ["To identify the signer", "To create legal documents", "To provide legal advice", "To witness the signing of documents"],
+        "answer": 3
+    },
+    {
+        "question": "Can a notary refuse to serve people?",
+        "options": ["Yes, if the notary is busy", "Yes, if the notary does not personally know the person", "No, notaries are public officials and cannot refuse service", "Yes, if the person does not speak English"],
+        "answer": 2
+    },
+    {
+        "question": "What is a jurat?",
+        "options": ["A type of identification", "A notarial act", "A type of notary public", "A legal term for a signature"],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a notary journal?",
+        "options": ["To record all notarial acts", "To keep track of fees", "To provide a history of the notary's personal life", "All of the above"],
+        "answer": 0
+    },
+{
+        "question": "What is an acknowledgment?",
+        "options": ["A type of notarial act", "A type of identification", "A type of notary public", "A legal term for a signature"],
+        "answer": 0
+    },
+    {
+        "question": "What is the fee for a notary public application in California?",
+        "options": ["$10", "$20", "$30", "$40"],
+        "answer": 2
+    },
+    {
+        "question": "What is the penalty for notary misconduct in California?",
+        "options": ["Suspension", "Fine", "Imprisonment", "All of the above"],
+        "answer": 3
+    },
+    {
+        "question": "What is a credible witness?",
+        "options": ["A person who vouches for another person's identity", "A person who signs a document", "A person who notarizes a document", "A person who witnesses a signing"],
+        "answer": 0
+    },
+    {
+        "question": "What is the process of a notary verifying a person's identity based on personal knowledge called?",
+        "options": ["Personal knowledge", "Credible witness", "Identification", "Personal acquaintance"],
+        "answer": 0
+    },
+    {
+        "question": "What is a notarial certificate?",
+        "options": ["A document that proves a person's identity", "A document that a notary signs and seals", "A document that lists a notary's fees", "A document that a notary uses to keep track of notarial acts"],
+        "answer": 1
+    },
+    {
+        "question": "What is the purpose of a notary seal or stamp?",
+        "options": ["To decorate documents", "To prove the notary's identity", "To make documents official", "All of the above"],
+        "answer": 2
+    },
+    {
+        "question": "What is a subscribing witness?",
+        "options": ["A person who watches a person sign a document", "A person who signs a document on behalf of another person", "A person who identifies a signer", "All of the above"],
+        "answer": 1
+    },
+    {
+        "question": "What is a venue in a notarial certificate?",
+        "options": ["The location of the notarization", "The location of the signing", "The location of the notary's office", "The location of the signer's residence"],
+        "answer": 0
+    },
+    {
+        "question": "What is the difference between a notary public and a notary signing agent?",
+        "options": ["A notary signing agent has more training", "A notary public has more training", "A notary signing agent can notarize documents, but a notary public cannot", "A notary public can notarize documents, but a notary signing agent cannot"],
+        "answer": 0
+    },
+    {
+        "question": "What is the purpose of a notary public?",
+        "options": ["To witness signatures", "To identify signers", "To deter fraud", "All of the above"],
+        "answer": 3
+    }
+]
